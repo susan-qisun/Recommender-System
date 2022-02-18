@@ -1,4 +1,4 @@
-# Recommender-System
+# Dog Toy Recommender System
 
 -By Susan Qi Sun
 
